@@ -1,2 +1,2 @@
 
-Click [here](tshalang.github.io) to go to my portfolio website. 
+Click [here](https://tshalang.github.io/) to go to my portfolio website. 
